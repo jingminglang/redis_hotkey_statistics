@@ -1,1 +1,1 @@
-# redis_hotkey_statistics
+# 通过抓包,实时统计redis流量状态

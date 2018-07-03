@@ -1,0 +1,22 @@
+{
+	"ImportPath": "redis_stats",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/google/gopacket",
+			"Comment": "v1.1.14-114-g165a0af",
+			"Rev": "165a0afa8d2975ef02eff12550e6aa75d6a1c828"
+		},
+		{
+			"ImportPath": "github.com/google/gopacket/layers",
+			"Comment": "v1.1.14-114-g165a0af",
+			"Rev": "165a0afa8d2975ef02eff12550e6aa75d6a1c828"
+		},
+		{
+			"ImportPath": "github.com/google/gopacket/pcap",
+			"Comment": "v1.1.14-114-g165a0af",
+			"Rev": "165a0afa8d2975ef02eff12550e6aa75d6a1c828"
+		}
+	]
+}
